@@ -569,6 +569,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 - [En Çok Kullanılan Python Metod ve Fonksiyonları](https://medium.com/developer-student-clubs/en-%C3%A7ok-kullan%C4%B1lan-python-metod-ve-fonksiyonlar%C4%B1-8354a7f989ac) - [Doğancan MAVİDENİZ](https://github.com/mavideniz)
+- [Pyhton Django](https://www.youtube.com/watch?v=qW92hLp2VLc&list=PLXuv2PShkuHzrqh-_ZYuDcHZcoZfeAnad)
 
 
 ### Rails
